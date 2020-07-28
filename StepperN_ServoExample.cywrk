@@ -3,11 +3,11 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="StepperN_ServoExample" persistent="StepperN_ServoExample.cywrk" platform="NOT_USED">
-<current_project name=".\StepperMotorDriver.cydsn\StepperMotorDriver.cyprj" />
+<current_project name=".\Stepper_ServoDriver.cydsn\Stepper_ServoDriver.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
-<v>.\StepperMotorDriver.cydsn\StepperMotorDriver.cyprj</v>
+<v>.\Stepper_ServoDriver.cydsn\Stepper_ServoDriver.cyprj</v>
 </projects>
 <workspace_id v="348c1740-43d2-4b5f-b2a6-b500e9bdd289" />
 <WriteAppVersionLastSavedWith v="4.0.0.432" />
